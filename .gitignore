@@ -1,0 +1,11 @@
+build/.ninja_deps
+build/.ninja_log
+build/.cmake/api/v1/query/client-vscode/query.json
+build/.cmake/api/v1/reply/cache-v2-98f895e2480d932e0099.json
+build/.cmake/api/v1/reply/cmakeFiles-v1-17d2540ffa0e46b5f587.json
+build/.cmake/api/v1/reply/codemodel-v2-11a5074deea47d8dfe9e.json
+build/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json
+build/.cmake/api/v1/reply/index-2025-04-30T07-42-01-0464.json
+build/.cmake/api/v1/reply/target-ctsim-Debug-b65371420b979bc302f7.json
+build/.cmake/api/v1/reply/target-geant4cbctsimmik-Debug-eccf6b6ac08a8a040191.json
+build/.cmake/api/v1/reply/toolchains-v1-d9d65102f2f0e2124826.json
